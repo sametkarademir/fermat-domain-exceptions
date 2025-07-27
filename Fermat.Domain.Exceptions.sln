@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E31CF41F-CFCD-4A30-A462-8E419C6B747D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fermat.Domain.Exceptions", "src\Fermat.Domain.Exceptions\Fermat.Domain.Exceptions.csproj", "{8094B396-27CA-46FD-B782-91380531627A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8094B396-27CA-46FD-B782-91380531627A} = {E31CF41F-CFCD-4A30-A462-8E419C6B747D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8094B396-27CA-46FD-B782-91380531627A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8094B396-27CA-46FD-B782-91380531627A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8094B396-27CA-46FD-B782-91380531627A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8094B396-27CA-46FD-B782-91380531627A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
